@@ -1,0 +1,2 @@
+# Tricents_Script_Selenium
+#CaptureElementsTricentsPage
